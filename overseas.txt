@@ -1,0 +1,196 @@
+# AdAway Non-Japanese Blocklist
+# This is in the public domain.
+
+127.0.0.1  localhost
+::1  localhost
+
+#General
+127.0.0.1 a.collective-media.net
+127.0.0.1 ad.leadboltads.net
+127.0.0.1 adadvisor.net
+127.0.0.1 ads.epom.com
+127.0.0.1 ads.exoclick.com
+127.0.0.1 ads2.contentabc.com
+127.0.0.1 adserver.juicyads.com
+127.0.0.1 adspaces.ero-advertising.com
+127.0.0.1 api.virool.com
+127.0.0.1 axp.zedo.com
+127.0.0.1 b.scorecardresearch.com
+127.0.0.1 cc.chango.com
+127.0.0.1 cdn.adsoptimal.com
+127.0.0.1 cdn.popcash.net
+127.0.0.1 cdn1.clkcln.com
+127.0.0.1 core.adprotected.com
+127.0.0.1 creative.wwwpromoter.com
+127.0.0.1 d.plugrush.com
+127.0.0.1 data.otaserve.net
+127.0.0.1 dpm.demdex.net
+127.0.0.1 ecpmrocks.com
+127.0.0.1 edge.quantserve.com
+127.0.0.1 go.mobilix.mobi
+127.0.0.1 go.oclaserver.com
+127.0.0.1 go.padstm.com
+127.0.0.1 iq.mobilix.mobi
+127.0.0.1 mobileads.msn.com
+127.0.0.1 my.mobfox.com
+127.0.0.1 lina.otaserve.net
+127.0.0.1 onclickads.net
+127.0.0.1 pl117795.puhtml.com
+127.0.0.1 popcash.net
+127.0.0.1 rpc-php.trafficfactory.biz
+127.0.0.1 soma.smaato.net
+127.0.0.1 static.kinley.com
+127.0.0.1 tracking.appbackgroud.com
+127.0.0.1 www.adnetworkperformance.com
+
+#Adblade
+127.0.0.1 staticd.cdn.adblade.com
+127.0.0.1 web.adblade.com
+
+#AdColony
+127.0.0.1 androidads20.adcolony.com
+127.0.0.1 events3.adcolony.com
+127.0.0.1 events3alt.adcolony.com
+
+#Adnxs
+127.0.0.1 g.adnxs.com
+127.0.0.1 ib.adnxs.com
+127.0.0.1 secure.adnxs.com
+
+#adzcore.com
+127.0.0.1 action.adzcore.com
+127.0.0.1 click.adzcore.com
+127.0.0.1 setting.adzcore.com
+
+#Ajillion
+127.0.0.1 ad.ajillionmax.com
+127.0.0.1 cdn.ajillionmax.com
+
+#AOL
+127.0.0.1 rma-api.gravity.com
+127.0.0.1 static.grvcdn.com
+127.0.0.1 thumby.grvcdn.com
+
+#BidVertiser
+127.0.0.1 1635469.cdntt.bidvertiser.com
+127.0.0.1 bdv.bidvertiser.com
+127.0.0.1 cdn.bidvertiser.com
+127.0.0.1 cdntt.bidvertiser.com
+
+#BuySellAds
+127.0.0.1 s3.buysellads.com
+127.0.0.1 srv.buysellads.com
+
+#CPMStar
+127.0.0.1 cdn.cpmstar.com
+127.0.0.1 server.cpmstar.com
+
+#eNom
+127.0.0.1 ads.heyzap.com
+127.0.0.1 img-cloudflare.haizap.com
+127.0.0.1 med.heyzap.com
+
+#HOI PLAY
+127.0.0.1 tm1.hoiplay.com
+127.0.0.1 tm2.hoiplay.com
+
+#Inneractive
+127.0.0.1 cdn1.inner-active.mobi
+127.0.0.1 event.inner-active.mobi
+
+#Juicy Ads
+127.0.0.1 ads-a.juicyads.com
+127.0.0.1 ads.juicyads.com
+127.0.0.1 mobile.juicyads.com
+127.0.0.1 xapi.juicyads.com
+
+#lfstmedia.com
+127.0.0.1 md-nj.lfstmedia.com
+127.0.0.1 mobile-android.lfstmedia.com
+
+#MGID
+127.0.0.1 ab-gb.mgid.com
+127.0.0.1 c.mgid.com
+127.0.0.1 imgg.mgid.com
+127.0.0.1 jsc.mgid.com
+
+#mobileCore
+127.0.0.1 ads.mobilecore.com
+127.0.0.1 poseidon.mobilecore.com
+127.0.0.1 proxy.mobilecore.com
+
+#MoPub
+127.0.0.1 ads.mopub.com
+127.0.0.1 cpp-test.imp.mpx.mopub.com
+
+#MyAdWise
+127.0.0.1 cdn1.bnr.revdepo.com
+127.0.0.1 cdn1.srv.revdepo.com
+127.0.0.1 cdn1.tags1.revdepo.com
+
+#Mydas.mobi
+127.0.0.1 ads.mp.mydas.mobi
+127.0.0.1 androidsdk.ads.mp.mydas.mobi
+
+#PopAds
+127.0.0.1 c1.popads.net
+127.0.0.1 c2.popads.net
+127.0.0.1 static.popads.net
+
+#promarket
+127.0.0.1 ads.pro-market.net
+127.0.0.1 pbid.pro-market.net
+
+#PubMatic
+127.0.0.1 ads.pubmatic.com
+127.0.0.1 aktrack.pubmatic.com
+127.0.0.1 image2.pubmatic.com
+127.0.0.1 showads.pubmatic.com
+
+#RevMob
+127.0.0.1 android.revmob.com
+127.0.0.1 ios.revmob.com
+
+#Rubicon Project
+127.0.0.1 ads.rubiconproject.com
+127.0.0.1 pixel.rubiconproject.com
+
+#ServeBom.com
+127.0.0.1 ads.servebom.com
+127.0.0.1 m.servebom.com
+
+#Simpli.fi
+127.0.0.1 i.simpli.fi
+127.0.0.1 um.simpli.fi
+
+#StartApp
+127.0.0.1 dts.akamai.startappexchange.com
+127.0.0.1 info.static.startappservice.com
+127.0.0.1 init.startappexchange.com
+127.0.0.1 req.startappservice.com
+127.0.0.1 www.startappexchange.com
+
+#Taboola
+127.0.0.1 cdn.taboola.com
+127.0.0.1 trc.taboola.com
+
+#TicTacTi
+127.0.0.1 adk2ads.tictacti.com
+127.0.0.1 cdnads.tictacti.com
+
+#TrafficJunky
+127.0.0.1 ads.trafficjunky.net
+127.0.0.1 media.trafficjunky.net
+
+#Tribal Fusion
+127.0.0.1 a.tribalfusion.com
+127.0.0.1 cdnx.tribalfusion.com
+
+#Vungle
+127.0.0.1 api.vungle.com
+127.0.0.1 cdn-lb.vungle.com
+
+#Yllix
+127.0.0.1 banners.yllix.com
+127.0.0.1 click2.yllix.com
+127.0.0.1 yllix.com

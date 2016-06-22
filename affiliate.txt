@@ -1,0 +1,95 @@
+# AdAway Affiliate Blocklist
+# This is in the public domain.
+
+127.0.0.1  localhost
+::1  localhost
+
+#A8.net
+127.0.0.1 px.a8.net
+127.0.0.1 www10.a8.net
+127.0.0.1 www11.a8.net
+127.0.0.1 www12.a8.net
+127.0.0.1 www13.a8.net
+127.0.0.1 www14.a8.net
+127.0.0.1 www15.a8.net
+127.0.0.1 www16.a8.net
+127.0.0.1 www17.a8.net
+127.0.0.1 www18.a8.net
+127.0.0.1 www19.a8.net
+127.0.0.1 www20.a8.net
+127.0.0.1 www21.a8.net
+127.0.0.1 www22.a8.net
+127.0.0.1 www23.a8.net
+127.0.0.1 www24.a8.net
+127.0.0.1 www25.a8.net
+127.0.0.1 www26.a8.net
+127.0.0.1 www27.a8.net
+127.0.0.1 www28.a8.net
+127.0.0.1 www29.a8.net
+
+#AccessTrade
+127.0.0.1 h.accesstrade.net
+127.0.0.1 img.accesstrade.net
+127.0.0.1 www.accesstrade.net
+
+#Affiliate-B
+127.0.0.1 track.affiliate-b.com
+127.0.0.1 www.affiliate-b.com
+
+#Amazon
+127.0.0.1 aax-us-east.amazon-adsystem.com
+127.0.0.1 aax.amazon-adsystem.com
+127.0.0.1 c.amazon-adsystem.com
+127.0.0.1 fls-fe.amazon-adsystem.com
+127.0.0.1 fls-na.amazon-adsystem.com
+127.0.0.1 ir-jp.amazon-adsystem.com
+127.0.0.1 ir-na.amazon-adsystem.com
+127.0.0.1 rcm-fe.amazon-adsystem.com
+127.0.0.1 ps-jp.amazon-adsystem.com
+127.0.0.1 wms-na.amazon-adsystem.com
+127.0.0.1 ws-na.amazon-adsystem.com
+127.0.0.1 ws-fe.amazon-adsystem.com
+127.0.0.1 z-na.amazon-adsystem.com
+
+#Medi Partner
+127.0.0.1 cdn.medipartner.jp
+127.0.0.1 mp14.medipartner.jp
+
+#Moba8
+127.0.0.1 px.moba8.net
+127.0.0.1 www10.moba8.net
+127.0.0.1 www11.moba8.net
+127.0.0.1 www12.moba8.net
+127.0.0.1 www13.moba8.net
+127.0.0.1 www14.moba8.net
+127.0.0.1 www15.moba8.net
+127.0.0.1 www16.moba8.net
+127.0.0.1 www17.moba8.net
+127.0.0.1 www18.moba8.net
+127.0.0.1 www19.moba8.net
+127.0.0.1 www20.moba8.net
+127.0.0.1 www21.moba8.net
+127.0.0.1 www22.moba8.net
+127.0.0.1 www23.moba8.net
+127.0.0.1 www24.moba8.net
+127.0.0.1 www25.moba8.net
+127.0.0.1 www26.moba8.net
+127.0.0.1 www27.moba8.net
+127.0.0.1 www28.moba8.net
+127.0.0.1 www29.moba8.net
+
+#Rakuten
+127.0.0.1 xml.affiliate.rakuten.co.jp
+
+#Smart-C
+127.0.0.1 image.smart-c.jp
+
+#ValueCommerce
+127.0.0.1 ad.jp.ap.valuecommerce.com
+127.0.0.1 aplkp.valuecommerce.com
+127.0.0.1 ck.jp.ap.valuecommerce.com
+
+#xmax
+127.0.0.1 images.xmax.jp
+127.0.0.1 imp.xmax.jp
+127.0.0.1 track.xmax.jp

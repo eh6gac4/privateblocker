@@ -1,0 +1,472 @@
+# AdAway Japanese Blocklist
+# This is in the public domain.
+
+127.0.0.1  localhost
+::1  localhost
+
+#General
+127.0.0.1 102399.medi-8.net
+127.0.0.1 2mdn.info
+127.0.0.1 a.adimg.net
+127.0.0.1 a.appier.mobi
+127.0.0.1 a.t.webtracker.jp
+127.0.0.1 a1.goo.ne.jp
+127.0.0.1 ac.ebis.ne.jp
+127.0.0.1 ad-move.jp
+127.0.0.1 ad-seek.jp
+127.0.0.1 ad.ad-arata.com
+127.0.0.1 ad.adsrvr.org
+127.0.0.1 ad.applipromotion.com
+127.0.0.1 ad.caprofitx.com
+127.0.0.1 ad.cq-andc.jp
+127.0.0.1 ad.directrev.com
+127.0.0.1 ad.fuzoku.fc2.com
+127.0.0.1 ad.goodad.jp
+127.0.0.1 ad.hatena.ne.jp
+127.0.0.1 ad.internetcom.jp
+127.0.0.1 ad.jorudan.co.jp
+127.0.0.1 ad.m-arata.com
+127.0.0.1 ad.netowl.jp
+127.0.0.1 ad.pr.ameba.jp
+127.0.0.1 ad.smaad.jp
+127.0.0.1 ad.somewrite.jp
+127.0.0.1 ad.xdomain.ne.jp
+127.0.0.1 adb.nikkei.co.jp
+127.0.0.1 adcdn.goo.ne.jp
+127.0.0.1 adf.shinobi.jp
+127.0.0.1 adforest.net
+127.0.0.1 adimp.excite.co.jp
+127.0.0.1 adm.shinobi.jp
+127.0.0.1 adpriv.nikkei.com
+127.0.0.1 adroute.focas.jp
+127.0.0.1 ads.adjust-net.jp
+127.0.0.1 ads.nicovideo.jp
+127.0.0.1 ads.ressp.net
+127.0.0.1 ads1.msads.net
+127.0.0.1 adv.addeluxe.jp
+127.0.0.1 adv.mobsmart.net
+127.0.0.1 affiliate.dtiserv.com
+127.0.0.1 afs.adjust-net.jp
+127.0.0.1 android.giveapp.jp
+127.0.0.1 aos-creative.prf.hn
+127.0.0.1 api.mb-click.jp
+127.0.0.1 api.triver.jp
+127.0.0.1 api.unthem.com
+127.0.0.1 apvdr.com
+127.0.0.1 apx.moatads.com
+127.0.0.1 ard.gree.net
+127.0.0.1 b.resad.mediaid.click
+127.0.0.1 bc.geocities.yahoo.co.jp
+127.0.0.1 c001.trax-ad.jp
+127.0.0.1 cd.ladsp.com
+127.0.0.1 cdn.caprofitx.com
+127.0.0.1 cdn.directrev.com
+127.0.0.1 cf.ad-v.jp
+127.0.0.1 cl.4clvr.jp
+127.0.0.1 count-ad.net
+127.0.0.1 creativecarrer.com
+127.0.0.1 cs.r-ad.ne.jp
+127.0.0.1 d.5.to
+127.0.0.1 d.adticker.net
+127.0.0.1 d.pixiv.org
+127.0.0.1 d.image-ad.jp
+127.0.0.1 deliver.ads2.iid.jp
+127.0.0.1 dlv.itmedia.jp
+127.0.0.1 ds.serving-sys.com
+127.0.0.1 emp.aiasahi.jp
+127.0.0.1 exaf.jp
+127.0.0.1 fam-ad.com
+127.0.0.1 free2.jp
+127.0.0.1 front.aid-ad.jp
+127.0.0.1 g.adming.net
+127.0.0.1 gigazine.asia
+127.0.0.1 i.adfurikun.jp
+127.0.0.1 i.image-ad.jp
+127.0.0.1 i.tapit.com
+127.0.0.1 i9999.adv.admeme.net
+127.0.0.1 img.4clvr.jp
+127.0.0.1 img.ad-seek.jp
+127.0.0.1 img.ad-trip.com
+127.0.0.1 img.bbchat.tv
+127.0.0.1 img5-ak.cpcdn.com
+127.0.0.1 imp.aiasahi.jp
+127.0.0.1 imp.asahi.com
+127.0.0.1 j.adresult-sp.jp
+127.0.0.1 j.adticker.net
+127.0.0.1 j.gmodmp.jp
+127.0.0.1 jp-pl.vizury.com
+127.0.0.1 jp-u.openx.net
+127.0.0.1 js.adcrops.net
+127.0.0.1 js.adnico.jp
+127.0.0.1 js.adflare.bz
+127.0.0.1 js.kau.li
+127.0.0.1 js.oct-pass.net
+127.0.0.1 jsonp.moatads.com
+127.0.0.1 link-a.net
+127.0.0.1 linker.adsee.jp
+127.0.0.1 lp.vasta.co.jp
+127.0.0.1 match.adsrvr.org
+127.0.0.1 mediad2.jp
+127.0.0.1 msg.simeji.baidu.jp
+127.0.0.1 opr.formulas.jp
+127.0.0.1 owb101.goo.ne.jp
+127.0.0.1 p.adpdx.com
+127.0.0.1 p.rfihub.com
+127.0.0.1 public.astrsk.net
+127.0.0.1 red.st-hatena.com
+127.0.0.1 rev2pub.adk2x.com
+127.0.0.1 rokushiki.nefficient.jp
+127.0.0.1 rp.mcnt.jp
+127.0.0.1 ru.adpon.net
+127.0.0.1 s.pagoda56.com
+127.0.0.1 sankei2ad.durasite.net
+127.0.0.1 serve.richmediaads.com
+127.0.0.1 servedby.openxmarket.jp
+127.0.0.1 smart-ad.sakura.ne.jp
+127.0.0.1 smartaccess.biz
+127.0.0.1 someapp.me
+127.0.0.1 sp.eroido.jp
+127.0.0.1 sp.gmossp-sp.jp
+127.0.0.1 spider.xwire.io
+127.0.0.1 spn.trax-ad.jp
+127.0.0.1 srt-srv.xlisting.jp
+127.0.0.1 static.adroute.focas.jp
+127.0.0.1 static.brandscreen.biz
+127.0.0.1 stimg.iand2ch.net
+127.0.0.1 storage.mobilecom.jp
+127.0.0.1 sync-dsp.ad-m.asia
+127.0.0.1 sync-tapi.admatrix.jp
+127.0.0.1 tag.ladsp.com
+127.0.0.1 tm.r-ad.ne.jp
+127.0.0.1 track.richmediaads.com
+127.0.0.1 unis.adpix.jp
+127.0.0.1 v2st.shinobi.jp
+127.0.0.1 web-jp.ad-v.jp
+127.0.0.1 www.ac.auone-net.jp
+127.0.0.1 www.image-rentracks.com
+127.0.0.1 www.rentracks.jp
+127.0.0.1 www.sumapo.org
+127.0.0.1 x.bidswitch.net
+
+#adingo
+127.0.0.1 c.adingo.jp.eimg.jp
+127.0.0.1 cdn-fluct.sh.adingo.jp
+127.0.0.1 cs.adingo.jp
+127.0.0.1 contents.adingo.jp.eimg.jp
+127.0.0.1 i.adingo.jp
+127.0.0.1 sh.adingo.jp
+127.0.0.1 spap.adingo.jp.eimg.jp
+
+#ADPLAN
+127.0.0.1 dex.advg.jp
+127.0.0.1 ds.advg.jp
+127.0.0.1 ssp.advg.jp
+127.0.0.1 v6.advg.jp
+
+#AdStir
+127.0.0.1 ad.ad-stir.com
+127.0.0.1 api.ad-stir.com
+127.0.0.1 bypass.ad-stir.com
+127.0.0.1 bypass.image.ad-stir.com
+127.0.0.1 dist.bpc.ad-stir.com
+127.0.0.1 img.ad-stir.com
+127.0.0.1 js.ad-stir.com
+127.0.0.1 sync.ad-stir.com
+127.0.0.1 win.ad-stir.com
+
+#Advertising.com
+127.0.0.1 ads.adaptv.advertising.com
+127.0.0.1 bannerfarm.ace.advertising.com
+127.0.0.1 cas.pxl.ace.advertising.com
+127.0.0.1 cmap.ox.ace.advertising.com
+127.0.0.1 cmap.uac.ace.advertising.com
+127.0.0.1 dtm.advertising.com
+127.0.0.1 leadback.advertising.com
+127.0.0.1 log.adaptv.advertising.com
+127.0.0.1 pixel.advertising.com
+127.0.0.1 pub.pxl.ace.advertising.com
+127.0.0.1 segments.adaptv.advertising.com
+127.0.0.1 sr.mads.advertising.com
+127.0.0.1 sync.adaptv.advertising.com
+127.0.0.1 uac.advertising.com
+
+#AdVision
+127.0.0.1 100651.advision-adnw.jp
+127.0.0.1 101958.advision-adnw.jp
+127.0.0.1 adone.yicha.jp
+127.0.0.1 advisionweb.yicha.jp
+127.0.0.1 advisionwebp.yicha.jp
+127.0.0.1 advpic.yicha.jp
+127.0.0.1 s1.yicha.jp
+
+#AMoAd
+127.0.0.1 cdni.amoad.com
+127.0.0.1 d.amoad.com
+127.0.0.1 j.amoad.com
+127.0.0.1 m.amoad.com
+127.0.0.1 n.amoad.com
+127.0.0.1 r.amoad.com
+
+#AppsFlyer
+127.0.0.1 api.appsflyer.com
+127.0.0.1 track.appsflyer.com
+
+#CloudFront
+127.0.0.1 d1aow18uk61pdc.cloudfront.net
+127.0.0.1 d1miuq6afqay8u.cloudfront.net
+127.0.0.1 d28nwox1gdjlve.cloudfront.net
+127.0.0.1 d2bgg7rjywcwsy.cloudfront.net
+127.0.0.1 d2mc9kkgipczjk.cloudfront.net
+127.0.0.1 dkqn5z34w623j.cloudfront.net
+
+#Criteo
+127.0.0.1 cas.criteo.com
+127.0.0.1 cas.jp.as.criteo.com
+127.0.0.1 dis.criteo.com
+
+#CyberAgent
+127.0.0.1 ad.amanad.adtdp.com
+127.0.0.1 auc.ca-conv.jp
+127.0.0.1 cast-cs-j.adtdp.com
+127.0.0.1 dynalyst-auc.adtdp.com
+127.0.0.1 errlog.amanad.adtdp.com
+
+#exit-ad
+127.0.0.1 d.exit-ad.com
+127.0.0.1 i.exit-ad.com
+
+#FC2
+127.0.0.1 aimg.fc2.com
+127.0.0.1 media.fc2.com
+
+#FreakOut
+127.0.0.1 cnt.fout.jp
+127.0.0.1 js.fout.jp
+127.0.0.1 sync.fout.jp
+
+#Geniee
+127.0.0.1 adnico.genieesspv.jp
+127.0.0.1 aladdin.aladdin.genieesspv.jp
+127.0.0.1 aladdin.genieesspv.jp
+127.0.0.1 cs.gssprt.jp
+127.0.0.1 js.gsspcln.jp
+127.0.0.1 rt.gsspat.jp
+127.0.0.1 sprout-ad.genieesspv.jp
+
+#Glam
+127.0.0.1 fileserver.glam.com
+127.0.0.1 gadcreatives.glam.com
+127.0.0.1 www30a6.glam.com
+127.0.0.1 www35.glam.com
+
+#Google
+127.0.0.1 cm.g.doubleclick.net
+127.0.0.1 dp.g.doubleclick.net
+127.0.0.1 googleads.g.doubleclick.net
+127.0.0.1 pagead2.googlesyndication.com
+127.0.0.1 pubads.g.doubleclick.net
+127.0.0.1 securepubads.g.doubleclick.net
+127.0.0.1 stats.g.doubleclick.net
+127.0.0.1 tpc.googlesyndication.com
+
+#Gunosy
+127.0.0.1 ad.gunosy.com
+127.0.0.1 adapi.gunosy.com
+127.0.0.1 adntokyo.gunosy.com
+
+#i-mobile
+127.0.0.1 cgi.i-mobile.co.jp
+127.0.0.1 spad.i-mobile.co.jp
+127.0.0.1 spapi.i-mobile.co.jp
+127.0.0.1 spadp.i-mobile.co.jp
+127.0.0.1 spcdnapi.i-mobile.co.jp
+127.0.0.1 spcnv.i-mobile.co.jp
+127.0.0.1 spdeliver.i-mobile.co.jp
+127.0.0.1 spdeliverp.i-mobile.co.jp
+127.0.0.1 spdmg-backend.i-mobile.co.jp
+127.0.0.1 spdmg.i-mobile.co.jp
+127.0.0.1 ssp-bidapi-n2.i-mobile.co.jp
+127.0.0.1 ssp-bidder.i-mobile.co.jp
+127.0.0.1 ssp-sync.i-mobile.co.jp
+127.0.0.1 spsvc1.i-mobile.co.jp
+127.0.0.1 spsvc2.i-mobile.co.jp
+127.0.0.1 spsvc3.i-mobile.co.jp
+127.0.0.1 spsvc4.i-mobile.co.jp
+127.0.0.1 spsvc5.i-mobile.co.jp
+127.0.0.1 xid.i-mobile.co.jp
+
+#i2i
+127.0.0.1 ad.i2idata.com
+127.0.0.1 adimg.i2i.jp
+127.0.0.1 ads-i2i.jp
+127.0.0.1 adsp.i2idata.com
+
+#impAct
+127.0.0.1 as.ad.impact-ad.jp
+127.0.0.1 as.cd.impact-ad.jp
+127.0.0.1 as.ch.impact-ad.jp
+127.0.0.1 as.cw.impact-ad.jp
+127.0.0.1 as.ko.impact-ad.jp
+127.0.0.1 as.mv.impact-ad.jp
+127.0.0.1 as.se.impact-ad.jp
+127.0.0.1 as.ve.impact-ad.jp
+127.0.0.1 as.wi.impact-ad.jp
+127.0.0.1 as.yl.impact-ad.jp
+127.0.0.1 aw.dw.impact-ad.jp
+127.0.0.1 img.ak.impact-ad.jp
+127.0.0.1 img.ll.impact-ad.jp
+127.0.0.1 s.f1.impact-ad.jp
+127.0.0.1 track.mk.impact-ad.jp
+127.0.0.1 y.one.impact-ad.jp
+
+#InMobi
+127.0.0.1 cf.cdn.inmobi.com
+127.0.0.1 config-ltvp.inmobi.com
+127.0.0.1 d.appsdt.com
+127.0.0.1 dock.inmobi.com
+127.0.0.1 e-ltvp.inmobi.com
+127.0.0.1 et.w.inmobi.com
+127.0.0.1 i.w.inmobi.com
+127.0.0.1 js.w.inmobi.com
+127.0.0.1 r.edge.inmobi.com
+127.0.0.1 r.edge.inmobicdn.com
+127.0.0.1 sdkm.w.inmobi.com
+
+#iogous
+127.0.0.1 a.iogous.com
+127.0.0.1 b.iogous.com
+127.0.0.1 c.iogous.com
+127.0.0.1 tk.iogous.com
+
+#Live Revolution
+127.0.0.1 adclr.jp
+127.0.0.1 lp.adclr.jp
+127.0.0.1 t.adclr.jp
+
+#M.T.Burn
+127.0.0.1 ad.mtburn.com
+127.0.0.1 appconf.mtburn.com
+127.0.0.1 js.mtburn.com
+
+#MAIST
+127.0.0.1 ad.maist.jp
+127.0.0.1 cdn.ad.maist.jp
+127.0.0.1 cdn.pop.maist.jp
+
+#Matomy Media Group
+127.0.0.1 admtpmp127.adsk2.co
+127.0.0.1 creative.admtpmp123.com
+127.0.0.1 creative.admtpmp124.com
+127.0.0.1 s.admtpmp124.com
+
+#media-rep.com
+127.0.0.1 adc01.media-rep.com
+127.0.0.1 adc02.media-rep.com
+127.0.0.1 adc03.media-rep.com
+
+#MicroAd
+127.0.0.1 adf.send.microad.jp
+127.0.0.1 cache.send.microad.jp
+127.0.0.1 cache.ssend.microad.jp
+127.0.0.1 d-cache.microad.jp
+127.0.0.1 d-track.send.microad.jp
+127.0.0.1 j.microad.net
+127.0.0.1 rmad.microad.jp
+127.0.0.1 s-cm.microad.jp
+127.0.0.1 s-rtb.send.microad.jp
+127.0.0.1 ssp.send.microad.jp
+127.0.0.1 vsc.send.microad.jp
+
+#moreAds
+127.0.0.1 d.moras.jp
+127.0.0.1 i.moras.jp
+127.0.0.1 j.moras.jp
+
+#Nend
+127.0.0.1 ad1.nend.net
+127.0.0.1 ad2.nend.net
+127.0.0.1 cs.nend.net
+127.0.0.1 di.nend.net
+127.0.0.1 img1.nend.net
+127.0.0.1 js1.nend.net
+127.0.0.1 lois.nend.net
+127.0.0.1 output.nend.net
+127.0.0.1 s.nend.net
+127.0.0.1 s2.nend.net
+
+#octopuspop.com
+127.0.0.1 ap.octopuspop.com
+127.0.0.1 js.octopuspop.com
+
+#Profile Passport
+127.0.0.1 ppgcm.profilepassport.jp
+127.0.0.1 r.profilepassport.jp
+
+#ScaleOut
+127.0.0.1 bid.socdm.com
+127.0.0.1 d.socdm.com
+127.0.0.1 i.socdm.com
+127.0.0.1 ssl.socdm.com
+127.0.0.1 tg.socdm.com
+
+#SmartNews
+127.0.0.1 api-p.smartnews-ads.com
+127.0.0.1 api.smartnews-ads.com
+127.0.0.1 b.smartnews.be
+127.0.0.1 cdn.smartnews-ads.com
+127.0.0.1 conf.smartnews-ads.com
+
+#sprout!
+127.0.0.1 101067.sprout-ad.com
+127.0.0.1 101623.sprout-ad.com
+127.0.0.1 101650.sprout-ad.com
+127.0.0.1 104396.sprout-ad.com
+127.0.0.1 104619.sprout-ad.com
+127.0.0.1 104919.sprout-ad.com
+127.0.0.1 ads.sprout-ad.com
+127.0.0.1 j.sprout-ad.com
+
+#TAP ONE
+127.0.0.1 ap.tapone.jp
+127.0.0.1 cdn.bn.tapone.jp
+127.0.0.1 cdn.js.tapone.jp
+127.0.0.1 js.tapone.jp
+127.0.0.1 taponejs-184e.kxcdn.com
+
+#Turn
+127.0.0.1 ad.turn.com
+127.0.0.1 cdn.turn.com
+127.0.0.1 d.turn.com
+127.0.0.1 r.turn.com
+
+#ULIZA
+127.0.0.1 ad-api-v01.uliza.jp
+127.0.0.1 ad-beacon-v01.uliza.jp
+127.0.0.1 aka-uae-httpdl.uliza.jp
+
+#United Blades
+127.0.0.1 alist.unitedblades.co.jp
+127.0.0.1 cdn.alistcloud.com
+
+#val.jp
+127.0.0.1 ad-image.val.jp
+127.0.0.1 ad-info.val.jp
+127.0.0.1 ad.val.jp
+127.0.0.1 s3.mobile.val.jp
+
+#Yahoo Japan
+127.0.0.1 aag.yahooapis.jp
+127.0.0.1 b92.yahoo.co.jp
+127.0.0.1 im.c.yimg.jp
+127.0.0.1 im.gmo.ov.yahoo.co.jp
+127.0.0.1 im.ov.yahoo.co.jp
+127.0.0.1 im.seesaa.ov.yahoo.co.jp
+127.0.0.1 smartads.mobile.yahoo.co.jp
+127.0.0.1 yads.c.yimg.jp
+127.0.0.1 yads.yahoo.co.jp
+
+#Zucks
+127.0.0.1 j.zucks.net.zimg.jp
+127.0.0.1 k.zucks.net
+127.0.0.1 sh.zucks.net
+127.0.0.1 static.zucks.net.zimg.jp
